@@ -1,0 +1,9 @@
+Tooltip_FR = {
+ Tooltip_BookTitle_Axe = "Hache",
+ Tooltip_BookTitle_Blunt = "Long Émoussé",
+ Tooltip_BookTitle_SmallBlunt = "Court Émoussé",
+ Tooltip_BookTitle_LongBlade = "Longue Lame",
+ Tooltip_BookTitle_SmallBlade = "Court Lame",
+ Tooltip_BookTitle_Spear = "Lance",
+ Tooltip_BookTitle_Maintenance = "Maintenance",
+}
